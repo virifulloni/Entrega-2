@@ -1,0 +1,111 @@
+{
+  "productos": [
+    {
+      "id": "1",
+      "img": "./img/modelos-1.png",
+      "nombre": "NIA",
+      "precio": 1890,
+      "descripcion": "Top fijo / colaless",
+      "talles": [
+        "S",
+        "M",
+        "L"
+      ],
+      "destacado": true,
+      "imgSecundarias": [
+        "./img/secundarias1-01.png",
+        "./img/secundarias1-02.png",
+        "./img/secundarias1-03.png"
+      ]
+    },
+    {
+      "id": "2",
+      "img": "./img/modelos-2.png",
+      "nombre": "CAIRO WHITE",
+      "precio": 1890,
+      "descripcion": "Corpi movible / Colaless ajustable",
+      "talles": [
+        "S",
+        "M",
+        "XL"
+      ],
+      "destacado": true,
+      "imgSecundarias": [
+        "./img/secundarias2-01.png",
+        "./img/secundarias2-02.png",
+        "./img/secundarias2-03.png"
+      ]
+    },
+    {
+      "id": "3",
+      "img": "./img/modelos-3.png",
+      "nombre": "SUMBAWA",
+      "precio": 1890,
+      "descripcion": "Corpi movible / Colaless ajustable",
+      "talles": [
+        "S",
+        "L"
+      ],
+      "destacado": true,
+      "imgSecundarias": [
+        "./img/secundarias3-01.png",
+        "./img/secundarias3-02.png",
+        "./img/secundarias3-03.png"
+      ]
+    },
+    {
+      "id": "4",
+      "img": "./img/modelos-4.png",
+      "nombre": "MOON RED",
+      "precio": 1890,
+      "descripcion": "Corpi fijo / Colaless ajustable",
+      "talles": [
+        "S",
+        "M",
+        "L",
+        "XL"
+      ],
+      "destacado": false,
+      "imgSecundarias": [
+        "./img/secundarias4-01.png",
+        "./img/secundarias4-02.png",
+        "./img/secundarias4-03.png"
+      ]
+    },
+    {
+      "id": "5",
+      "img": "./img/modelos-5.png",
+      "nombre": "ACUARIO NEON",
+      "precio": 2100,
+      "descripcion": "Top fijo / semivedetina",
+      "talles": [
+        "M",
+        "L"
+      ],
+      "destacado": false,
+      "imgSecundarias": [
+        "./img/secundarias5-01.png",
+        "./img/secundarias5-02.png",
+        "./img/secundarias5-03.png"
+      ]
+    },
+    {
+      "id": "6",
+      "img": "./img/modelos-6.png",
+      "nombre": "ORANGE",
+      "precio": 1890,
+      "descripcion": "Corpi movible / Colaless ajustable",
+      "talles": [
+        "S",
+        "M",
+        "L"
+      ],
+      "destacado": false,
+      "imgSecundarias": [
+        "./img/secundarias6-01.png",
+        "./img/secundarias6-02.png",
+        "./img/secundarias6-03.png"
+      ]
+    }
+  ]
+}
